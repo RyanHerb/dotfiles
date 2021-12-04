@@ -1,0 +1,37 @@
+{
+    "coc.preferences.extensionUpdateCheck": "daily",
+    "coc.preferences.formatOnType": true,
+    "diagnostic.checkCurrentLine": true,
+    "diagnostic.virtualText": true,
+    "diagnostic.enableMessage": "jump",
+    "diagnostic.errorSign": "✖",
+    "diagnostic.warningSign": "⚠",
+    "diagnostic.infoSign": "•",
+    "diagnostic.hintSign": "•",
+    "diagnostic-languageserver.filetypes": {
+        "python": ["black", "isort"],
+        "lua": "lua-format",
+        "sh": "shfmt"
+    },
+    "diagnostic-languageserver.mergeConfig": true,
+    "diagnostic-languageserver.linters": {
+        "vim": "vint",
+        "email": "languagetool",
+        "markdown": [ "write-good", "markdownlint" ],
+        "sh": "shellcheck",
+        "systemd": "systemd-analyze"
+    },
+    "git.enableGutters": true,
+    "git.addedSign.text": "┃",
+    "git.changedSign.text": "┃",
+    "git.removedSign.text": "▁",
+    "git.topRemovedSign.text": "▔",
+    "git.changeRemovedSign.text": "▔",
+    "phpls.path": "/usr/local/bin/intelephense",
+    "php-cs-fixer.config": ".php-cs-fixer.dist.php",
+    "php-cs-fixer.enableFormatProvider": true,
+    "intelephense.environment.phpVersion": "8",
+    "tailwindCSS.validate": true,
+    "tailwindCSS.emmetCompletions": true,
+    "prettier.requireConfig": true
+}
