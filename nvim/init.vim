@@ -106,6 +106,7 @@ source ~/.config/nvim/plugins/pasta.vim
 source ~/.config/nvim/plugins/polyglot.vim
 source ~/.config/nvim/plugins/smooth-scroll.vim
 source ~/.config/nvim/plugins/surround.vim
+source ~/.config/nvim/plugins/targets.vim
 source ~/.config/nvim/plugins/vim-test.vim
 source ~/.config/nvim/plugins/visual-multi.vim
 source ~/.config/nvim/plugins/which-key.vim
