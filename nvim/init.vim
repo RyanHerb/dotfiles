@@ -100,6 +100,7 @@ source ~/.config/nvim/plugins/editorconfig.vim
 source ~/.config/nvim/plugins/dracula.vim
 source ~/.config/nvim/plugins/floatterm.vim
 source ~/.config/nvim/plugins/fugitive.vim
+source ~/.config/nvim/plugins/fzf.vim
 source ~/.config/nvim/plugins/markdown-preview.vim
 source ~/.config/nvim/plugins/nerdtree.vim
 source ~/.config/nvim/plugins/pasta.vim
