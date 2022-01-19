@@ -13,6 +13,7 @@ set signcolumn=yes:2
 set relativenumber
 set number
 set spell
+set spelllang=en-gb,fr-fr
 set title
 set ignorecase
 set smartcase
